@@ -39,8 +39,6 @@ A cross-platform food delivery application built using **Flutter**, designed for
 
 ![All Screen_page-0006](https://github.com/user-attachments/assets/e59b8e31-b0b3-4a2f-8ca9-280ef49b0470)
 
-![All Screen_page-0007](https://github.com/user-attachments/assets/da4cda49-a5a5-4b0f-9e13-914b64ee0177)
-
 ![All Screen_page-0008](https://github.com/user-attachments/assets/6a2b1248-e551-41f0-9c80-74f1f90597a1)
 
 ---
